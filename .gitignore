@@ -1,0 +1,16 @@
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/classes/archetype-resources/pom.xml
+target/classes/archetype-resources/src/main/java/App.java
+target/classes/archetype-resources/src/test/java/AppTest.java
+target/classes/log4j.properties
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/archetype.xml
+target/classes/META-INF/maven/namecheap/ddnsclient/pom.properties
+target/classes/META-INF/maven/namecheap/ddnsclient/pom.xml
+target/classes/namecheap/Client.class
+target/classes/namecheap/Client$1.class
+target/classes/namecheap/Client$NamecheapConfig.class
+src/main/resources/META-INF/maven/archetype.xml
