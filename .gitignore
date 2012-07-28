@@ -14,3 +14,4 @@ target/classes/namecheap/Client.class
 target/classes/namecheap/Client$1.class
 target/classes/namecheap/Client$NamecheapConfig.class
 src/main/resources/META-INF/maven/archetype.xml
+namecheap.log
